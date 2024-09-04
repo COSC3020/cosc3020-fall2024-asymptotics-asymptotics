@@ -19,3 +19,8 @@ I have done the first one for you, as an example.
 | $f(n)= 4n^5 $ | 2 | $g(n)= 5n^4$ | 
 | $f(n) = 10^{256}$ |  | $g(n) = \log n$ |
 | $f(n)= n^2 $ | 1 | $g(n)= 2^n$ |
+
+
+Sources:
+Ali helped to understand what each of the four functions did, as well as going through other examples.
+I'd looked up what these 4 functions meant before hand on chatgpt, but didn't understand well. 
