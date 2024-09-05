@@ -24,3 +24,5 @@ I have done the first one for you, as an example.
 Sources:
 Ali helped to understand what each of the four functions did, as well as going through other examples.
 I'd looked up what these 4 functions meant before hand on chatgpt, but didn't understand well. 
+
+I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.
